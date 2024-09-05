@@ -1,2 +1,2 @@
 # New-demo
-this is demo for git and git hub
+This is demo for git and git hub
